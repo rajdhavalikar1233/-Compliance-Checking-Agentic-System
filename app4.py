@@ -8,7 +8,7 @@ from rag.policy_store import build_policy_vectorstore, save_vectorstore
 from rag.laws_store import build_regulation_vectorstore, load_regulation_vectorstore
 from agents.policy_summary import run_policy_summary_retrieval, load_vector_store
 from utils.query_map import query_map
-from langchain.chat_models import ChatOpenAI
+langchain_community.chat_models import ChatTogether
 from langchain_groq import ChatGroq
 from langchain.chains import ConversationalRetrievalChain
 from langchain.memory import ConversationBufferMemory
@@ -18,7 +18,7 @@ import json
 load_dotenv()
 together_api_key = os.getenv("TOGETHER_API_KEY")
 
-llm = ChatOpenAI(
+llm = ChatTogether(
     temperature=0,
     model_name="mistralai/Mixtral-8x7B-Instruct-v0.1",
     openai_api_key=together_api_key,
