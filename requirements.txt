@@ -13,6 +13,6 @@ requests==2.31.0
 selenium
 beautifulsoup4
 webdriver-manager
-
+openai
 
 nltk
