@@ -4,5 +4,5 @@ services:
     env: python
     plan: free
     buildCommand: ""
-    startCommand: streamlit run app.py
+    startCommand: streamlit run app4.py
     autoDeploy: true
