@@ -14,5 +14,5 @@ selenium
 beautifulsoup4
 webdriver-manager
 openai
-
+langchain-groq
 nltk
