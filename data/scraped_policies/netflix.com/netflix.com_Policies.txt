@@ -555,28 +555,158 @@ Cookie Preferences
 Corporate Information
 
 ===== Cookie Policy =====
-Netflix
-Select Language
+Cookie Consent | Products | OneTrust
+Skip to main content
+Solutions
+Solutions
+Consent & Preferences
+Streamline consent and preference management for consumer transparency
+Third-Party Management
+Automate third-party management from intake and risk assessment to mitigation and reporting
+Privacy Automation
+Enable responsible use throughout the data lifecycle
+Tech Risk & Compliance
+Scale your resources and optimize your risk and compliance lifecycle
+Data & AI Governance
+Govern your data and AI while accelerating innovation
+Featured Products
+AI Governance
+Data Discovery & Classification
+Third-Party Risk Management
+View all products
+Regulatory Solutions
+GDPR
+DORA
+EU AI Act
+View all regulatory solutions
+Platform
+OneTrust Platform
+Platform Overview
+Build and demonstrate trust, measure and manage risk, and go beyond compliance
+Pricing
+Explore our scalable packages designed to help you collect, govern, and use your data with complete visibility and control
+Integrations
+Our extensive set of integrations makes it easy to add data management to your workflows
+Resources
+Self-Service Resources
+Demo Videos
+Resource Library
+Customer Stories
+Blog
+Training & Events
+Training & Certifications
+TrustWeek
+Connect Workshops
+Support
+Support & Services
+Partners
+MyOneTrust Help Center
+Company
+Company
+About Us
+Trust Center
+Careers
+Newsroom
+Contact Us
+Newsroom
+Get the latest news, announcements, views, and more
+Request demo
+Contact sales
+Search keyword
+Search
+Choose a site language:
+Languages
+EN
 English
-हिन्दी
-Update required
-Looks like your browser, operating system, or device is not supported. Please make some updates to access Netflix. Learn more about updates and requirements
-here
-.
-Cannot access your account?
-Contact us
-.
-Questions? Call
-000-800-919-1743
-FAQ
-Gift Card Terms
-Help Centre
-Investor Relations
-Terms of Use
-Privacy
-Cookie Preferences
-Corporate Information
-Select Language
-English
-हिन्दी
+Deutsch
+Español
+Français
+Italiano
+Português
+Cookie Consent
+Simplify cookie compliance and consent management
+Regulatory and societal trends emphasize the importance of personal data consent. More than 750,000 websites trust our Cookie Consent software to meet today’s data privacy demands.
+Detect all cookies, tags, trackers, pixels, beacons, and more across your website
+Customize out-of-the-box consent banners according to your brand and regional needs
+Easily deploy banners across domains with pre-built MarTech integrations
+Request demo
+Contact sales
+Operationalize cookie consent
+Audit your website
+Identify and maintain an evergreen inventory of all first- and third-party cookies and tracking technologies across your website. Use advanced scanning to simulate the user experience, scan behind logins, and trigger hidden pages.
+Automatically categorize cookies and trackers
+Use the world’s largest database of over 45 million pre-categorized cookies to group trackers by purpose. Clarify and update cookie names at any time using intuitive descriptions, vendor information, and lifespans.
+Easily configure the consent experience
+Professionally designed templates empower you to create a seamless user experience with custom branding, support for more than 250 languages, and geolocation rules to display different banners and consent models based on region, country, or state.
+Enable cookie auto-blocking to ensure compliance
+Use no-code cookie blocking, tag manager integrations, or script re-writing to block trackers until explicit consent is gained. Enable support for industry frameworks and vendor-specific opt-outs.
+Automate scanning and maintain records
+Schedule regular scans on your website and auto-populate your updated cookie list into your privacy or cookie policies. Demonstrate compliance with a detailed user consent transaction database.
+Optimize your cookie consent banner to maximize opt-ins
+Experiment with A/B testing to deploy template variations, measure consent, and drive opt-ins. Define attributes and logic using template targeting and sync consent of known users across devices.
+Extend your consent options
+Extend cookie consent to
+Mobile App Consent
+and OTT & CTV Consent, managing all user consent and preferences through the OneTrust platform.
+CONSENT & PREFERENCES
+May 28, 2025
+Deloitte x OneTrust: Solving consent complexity in the age of personalization
+Discover how Deloitte and OneTrust help enterprises navigate data complexity and elevate consent management to power personalization and meet evolving privacy demands.
+Read more
+Related products
+Clear Filters
+Mobile App Consent
+Our mobile app consent software enables you to scan for SDKs, collect valid consent and provide visibility into how your mobile app is sharing data.
+Learn more
+OTT and CTV Consent
+Give your customers control of their consent and preferences across Over-the-Top apps and Connected TV with OneTrust OTT and CTV Consent.
+Learn more
+Privacy Operations
+Streamline compliance with data privacy laws and minimize privacy risk by operationalizing your data privacy program.
+Learn more
+Ready to get started?
+See how OneTrust Consent & Preferences can help your organization build trusted digital experiences.
+Request demo
+Contact sales
+Top Searches
+Trust Center
+Consent & Preferences
+Third-Party Management
+AI Governance
+Resources
+Laying the foundation: The why and how of privacy automation
+Third-Party Risk Management: From compliance to strategy
+Streamlining compliance: Best practices for privacy automation
+Platform
+Platform
+Pricing and Packaging
+OneTrust Integrations: The Future of Privacy Management
+Company
+About Us
+OneTrust Global Offices
+Careers
+Newsroom
+Legal and Compliance Information
+Latest News
+Corporate Compliance Insights | OneTrust adds AI-powered copilot to DataGuidance
+OneTrust recognized as leader in Snowflake’s Modern Marketing Data Stack report
+OneTrust transitions its Convercent Ethics and Compliance Solution to EQS Group
+Contact Us
+Contact Us
+Request Demo
+Privacy Matters
+Our privacy center makes it easy to see how
+we collect and use your information.
+Your privacy
+When we collect your personal information, we always inform you of your rights and make it easy for you to exercise them. Where possible, we also let you manage your preferences about how much information you choose to share with us, or our partners.
+© 2025 OneTrust, LLC. All Rights Reserved.
+On-demand webinar coming soon...
+Our policies
+Privacy Overview
+Privacy Notice
+Cookie Notice
+Trust Center
+Your rights
+Exercise Your Rights
+Manage Your Communication Preferences
 
