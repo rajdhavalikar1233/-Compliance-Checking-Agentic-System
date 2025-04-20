@@ -13,10 +13,7 @@ from langchain_groq import ChatGroq
 from langchain.chains import ConversationalRetrievalChain
 from langchain.memory import ConversationBufferMemory
 import json
-import warnings
-from pydantic import PydanticDeprecationWarning
 
-warnings.filterwarnings("ignore", category=PydanticDeprecationWarning)
 
 # Load API key
 load_dotenv()

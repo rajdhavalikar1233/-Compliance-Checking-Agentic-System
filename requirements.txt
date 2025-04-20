@@ -5,8 +5,7 @@ langchain-community
 faiss-cpu
 sentence-transformers
 groq
-phidata
-fastapi
+
 python-dotenv
 
 requests==2.31.0
